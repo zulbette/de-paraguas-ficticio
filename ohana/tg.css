@@ -1,0 +1,147 @@
+.container{
+    min-height: 500vh;
+    background: url(facu.jpeg) no-repeat center center fixed ;
+    background-size: 120%;
+    
+}
+    
+
+   
+  
+
+
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 150px;
+    margin-bottom: 1px;
+    
+    border-bottom-width: 1px;
+    height: 71px;
+    margin-top: 10px;
+
+
+    }
+#hu{
+    font-family: 'Pacifico', cursive;
+    font-size: 45px; 
+    text-align: center;
+    margin-top: 80px;
+    text-shadow: rgb(204, 51, 24) 0.1em 0.1em 0.2em;
+    background-color: rgba(255, 255, 255, 0.521);
+
+    margin-bottom: 15px;
+
+}
+h3{
+    font-family: 'Amaranth', sans-serif;
+    
+
+text-align: center;
+font-size: 35px;
+
+
+
+margin-bottom: 112px;
+
+
+margin-top: 90px;
+
+}
+h2{ 
+    font-family: 'Pacifico', cursive;
+    text-align: right;
+    font-size: 25px;
+    margin-top: 20px;margin-right: 16px;
+}
+#ty{
+    font-family: 'Amaranth', sans-serif;
+font-family: 'Bad Script', cursive;
+    font-size: 33px;
+    text-align: center;
+    
+    color: rgb(7, 7, 7);
+
+    
+    margin-bottom: 6px;
+
+    margin-top: 30px;
+
+
+}
+#pri{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    text-align: center;
+    background-color:  rgba(255, 118, 118, 0.432);
+    
+    margin-bottom: 30px;
+
+}
+#seg{
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgba(255, 118, 118, 0.432);
+    margin-top: -30px;
+    margin-bottom: 115px;
+
+}
+#au{
+    font-family: 'Amaranth', sans-serif;
+    text-align: center;
+    font-size: 70px;
+}
+#desc{
+    font-family: 'Amaranth', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 74px;
+
+}
+h5{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 30px;
+
+    margin-bottom: 83px;
+
+}
+h6{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 30px;
+    
+    margin-top: 81px;
+
+}
+#formulario{
+    font-family: 'Amaranth', sans-serif;
+    background-color: rgba(248, 244, 248, 0.685);
+    
+}
+#titu{
+    text-align: center;
+    font-size: 40px;
+
+}
+#video{
+    text-align: center;
+    
+    
+
+
+}
+
+#boton{
+position: relative;
+left: 300px;
+top: -10px;
+    
+
+}
+
+#graci{
+    font-family: 'Amaranth', sans-serif;
+    text-align: center ;
+}
